@@ -1,6 +1,7 @@
 <center>
-![Hunter Henrichsen's Header](https://raw.githubusercontent.com/hhenrichsen/hhenrichsen/banner.png)
+<img alt="Hunter Henrichsen's Header" src="./banner.png"/>
 </center>
+
 ---
 <p align="center">
 <a href="https://dev.to/hunter"><img src="https://img.shields.io/badge/dev.to%2F-hunter-151516?style=for-the-badge&amp;logo=dev.to" alt="Hunter on Dev.to"></a>
@@ -72,11 +73,11 @@ the number of minues a point is controlled.
 <center>
     <i>Have something interesting to work on? Reach out!</i>
     <center>
-        <a href="mailto:hunter.henrichsen@gmail.com" alt="Email"><img src="https://raw.githubusercontent.com/hhenrichsen/hhenrichsen/mail.svg"></a>
-        <a href="mailto:hunter.henrichsen@gmail.com" alt="Email"><img src="https://raw.githubusercontent.com/hhenrichsen/hhenrichsen/mail.svg"></a>
+        <a href="mailto:hunter.henrichsen@gmail.com" alt="Email"><img src="./mail.svg" width="25px" height="25px"></a>
+        <a href="https://linkedin.com/in/hhenrichsen" alt="LinkedIn"><img src="./linkedin.svg" width="25px" height="25px"></a>
     </center>
 </center>
 <center>
 <p><i>Icons from <a href="https://simpleicons.org/">SimpleIcons</a> and <a href="https://tablericons.com/">Tabber Icons</a>. Dynamic content from <a href="https://dev.to/anuraghazra/dynamically-generated-github-stats-for-your-profile-readme-o4g">Anurag Hazra</a>. Badges from <a href="https://shields.io">Shields.io</a></i></p>
-<img alt="Footer" src="https://raw.githubusercontent.com/hhenrichsen/hhenrichsen/footer.png"/>
+<img alt="Footer" src="./footer.png"/>
 </center>
