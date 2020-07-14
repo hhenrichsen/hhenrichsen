@@ -1,6 +1,6 @@
-<center>
-<img alt="Hunter Henrichsen's Header" src="./banner.png"/>
-</center>
+<p align="center">
+<img alt="Hunter Henrichsen's Header" src="https://github.com/hhenrichsen/hhenrichsen/blob/master/banner.png?raw=true "/>
+</p>
 
 ---
 <p align="center">
@@ -65,19 +65,21 @@ the number of minues a point is controlled.
 
 <details>
 <summary>Other interesting bits about me</summary>
-* My favorite programming language is Kotlin.
-* I listen to either Drum and Bass or Chillstep while I program.
-* I'm a cat person.
+<ul>
+<li>My favorite programming language is Kotlin.</li>
+<li>I listen to either Drum and Bass or Chillstep while I program.</li>
+<li>I'm a cat person.</li>
+</ul>
 </details>
 
-<center>
+<p align="center">
     <i>Have something interesting to work on? Reach out!</i>
-    <center>
-        <a href="mailto:hunter.henrichsen@gmail.com" alt="Email"><img src="./mail.svg" width="25px" height="25px"></a>
-        <a href="https://linkedin.com/in/hhenrichsen" alt="LinkedIn"><img src="./linkedin.svg" width="25px" height="25px"></a>
-    </center>
-</center>
-<center>
+    <p align="center">
+        <a href="mailto:hunter.henrichsen@gmail.com" alt="Email"><img src="https://github.com/hhenrichsen/hhenrichsen/blob/master/mail.svg?raw=true" width="25px" height="25px"></a>
+        <a href="https://linkedin.com/in/hhenrichsen" alt="LinkedIn"><img src="https://github.com/hhenrichsen/hhenrichsen/blob/master/linkedin.svg?raw=true" width="25px" height="25px"></a>
+    </p>
+</p>
+<p align="center">
 <p><i>Icons from <a href="https://simpleicons.org/">SimpleIcons</a> and <a href="https://tablericons.com/">Tabber Icons</a>. Dynamic content from <a href="https://dev.to/anuraghazra/dynamically-generated-github-stats-for-your-profile-readme-o4g">Anurag Hazra</a>. Badges from <a href="https://shields.io">Shields.io</a></i></p>
-<img alt="Footer" src="./footer.png"/>
-</center>
+<img alt="Footer" src="https://github.com/hhenrichsen/hhenrichsen/blob/master/footer.png?raw=true "/>
+</p>
