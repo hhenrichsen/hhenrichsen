@@ -76,7 +76,6 @@ the number of minues a point is controlled.
     <i>Have something interesting to work on? Reach out!</i>
     <p align="center">
         <a href="mailto:hunter.henrichsen@gmail.com" alt="Email"><img src="https://github.com/hhenrichsen/hhenrichsen/blob/master/mail.svg?raw=true" width="25px" height="25px"></a>
-        <a href="https://linkedin.com/in/hhenrichsen" alt="LinkedIn"><img src="https://github.com/hhenrichsen/hhenrichsen/blob/master/linkedin.svg?raw=true" width="25px" height="25px"></a>
     </p>
 </p>
 <p align="center">
