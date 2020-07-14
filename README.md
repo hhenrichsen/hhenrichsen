@@ -81,6 +81,6 @@ the number of minues a point is controlled.
     </p>
 </p>
 <p align="center">
-<p><i>Icons from <a href="https://simpleicons.org/">SimpleIcons</a> and <a href="https://tablericons.com/">Tabber Icons</a>. Dynamic content from <a href="https://dev.to/anuraghazra/dynamically-generated-github-stats-for-your-profile-readme-o4g">Anurag Hazra</a>. Badges from <a href="https://shields.io">Shields.io</a></i></p>
+<i>Icons from <a href="https://simpleicons.org/">SimpleIcons</a> and <a href="https://tablericons.com/">Tabber Icons</a>. Dynamic content from <a href="https://dev.to/anuraghazra/dynamically-generated-github-stats-for-your-profile-readme-o4g">Anurag Hazra</a>. Badges from <a href="https://shields.io">Shields.io</a></i>
 <img alt="Footer" src="https://github.com/hhenrichsen/hhenrichsen/blob/master/footer.png?raw=true "/>
 </p>
