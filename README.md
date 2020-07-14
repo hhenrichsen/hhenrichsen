@@ -22,7 +22,7 @@ friends.
 ![Hunter's Stats](https://github-readme-stats.vercel.app/api?username=hhenrichsen)
 
 <details>
-    <summary>Some of my favorite projects:</summary>
+    <summary>Some of my favorite projects</summary>
 
 ### [ShatteredCore](https://github.com/ShatteredSuite/ShatteredCore)
 [![ShatteredCore](https://github-readme-stats.vercel.app/api/pin/?username=ShatteredSuite&repo=ShatteredCore)](https://github.com/ShatteredSuite/ShatteredCore)
@@ -69,6 +69,8 @@ the number of minues a point is controlled.
 <li>My favorite programming language is Kotlin.</li>
 <li>I listen to either Drum and Bass or Chillstep while I program.</li>
 <li>I'm a cat person.</li>
+<li>I use Vim bindings in every editor.</li>
+<li>I run windows, but use the WSL shell.</li>
 </ul>
 </details>
 
