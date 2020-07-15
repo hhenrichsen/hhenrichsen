@@ -80,7 +80,7 @@ the number of minutes a point is controlled.
 
 **Terminal:** [Windows Terminal](https://github.com/microsoft/terminal) with
 the Windows Subsystem for Linux (v2), zsh, 
-[Oh My *Zsh](https://github.com/ohmyzsh/ohmyzsh) and
+[Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) and
 [Powerlevel10k](https://github.com/romkatv/powerlevel10k). 
 
 **Editors:** IntelliJ for Java and Kotlin, VSCode for everything else.
