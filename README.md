@@ -98,4 +98,5 @@ the Windows Subsystem for Linux (v2), zsh,
 <p align="center">
 <i>Icons from <a href="https://simpleicons.org/">SimpleIcons</a> and <a href="https://tablericons.com/">Tabber Icons</a>. Dynamic content from <a href="https://dev.to/anuraghazra/dynamically-generated-github-stats-for-your-profile-readme-o4g">Anurag Hazra</a>. Badges from <a href="https://shields.io">Shields.io</a>. Graphics by Hunter Henrichsen.</i>
 <img alt="Footer" src="https://github.com/hhenrichsen/hhenrichsen/blob/master/footer.png?raw=true "/>
+<img alt="Visitors Badge" src="https://visitor-badge.glitch.me/badge?page_id=hhenrichsen.hhenrichsen"/>
 </p>
