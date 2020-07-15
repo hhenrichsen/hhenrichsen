@@ -80,9 +80,9 @@ the number of minues a point is controlled.
 **Font:** [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans)
 
 **Terminal:** [Windows Terminal](https://github.com/microsoft/terminal) with
-*the Windows Subsystem for Linux (v2), zsh, 
+the Windows Subsystem for Linux (v2), zsh, 
 [Oh My *Zsh](https://github.com/ohmyzsh/ohmyzsh) and
-*[Powerlevel10k](https://github.com/romkatv/powerlevel10k). 
+[Powerlevel10k](https://github.com/romkatv/powerlevel10k). 
 
 **Editors:** IntelliJ for Java and Kotlin, VSCode for everything else.
 
