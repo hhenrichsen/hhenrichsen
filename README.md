@@ -71,7 +71,7 @@ environment based on branches. It has the following features:
 * An event system. 
 * A content management system used to tell a story over the course of a game. 
 * A location ownership system that tallies points based on
-the number of minues a point is controlled.
+the number of minutes a point is controlled.
 </details>
 
 ## What I Use
