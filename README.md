@@ -36,7 +36,6 @@ friends.
     <summary>Some of my favorite projects</summary>
 
 ### [ShatteredCore](https://github.com/ShatteredSuite/ShatteredCore)
-[![ShatteredCore](https://github-readme-stats.vercel.app/api/pin/?username=ShatteredSuite&repo=ShatteredCore)](https://github.com/ShatteredSuite/ShatteredCore)
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-F18E33?style=for-the-badge&logo=kotlin&logoColor=ffffff) ![Java](https://img.shields.io/badge/-Java-b07219?style=for-the-badge&logo=java&logoColor=ffffff) ![Gradle](https://img.shields.io/badge/-Gradle-e69f56?style=for-the-badge&logo=gradle&logoColor=ffffff)
 
