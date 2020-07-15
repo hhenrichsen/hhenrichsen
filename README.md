@@ -18,9 +18,20 @@ by some of my projects. When I'm not writing code, I'm probably writing a
 blog post, working on plotting out some fiction, or playing games with my
 friends.
 
+<details>
+<summary>Some other random facts about me.</summary>
+    <ul>
+        <li>I started writing code seriously when I was about 15, with the
+            goal of writing Minecraft mods (I still haven't written any).</li>
+        <li>I draw occasionally, but I'm still learning how to do that.</li>
+        <li>I listen to Chillstep and Drum and Bass while I code.</li>
+    </ul>
+</details>
+
 ## Stats
 ![Hunter's Stats](https://github-readme-stats.vercel.app/api?username=hhenrichsen)
 
+## Projects
 <details>
     <summary>Some of my favorite projects</summary>
 
@@ -63,16 +74,17 @@ environment based on branches. It has the following features:
 the number of minues a point is controlled.
 </details>
 
-<details>
-<summary>Other interesting bits about me</summary>
-<ul>
-<li>My favorite programming language is Kotlin.</li>
-<li>I listen to either Drum and Bass or Chillstep while I program.</li>
-<li>I'm a cat person.</li>
-<li>I use Vim bindings in every editor.</li>
-<li>I run windows, but use the WSL shell.</li>
-</ul>
-</details>
+## What I Use
+
+### Software
+**Font:** [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans)
+**Terminal:** [Windows Terminal](https://github.com/microsoft/terminal) with
+*the Windows Subsystem for Linux (v2), zsh, 
+[Oh My *Zsh](https://github.com/ohmyzsh/ohmyzsh) and
+*[Powerlevel10k](https://github.com/romkatv/powerlevel10k). 
+**Editors:** IntelliJ for Java and Kotlin, VSCode for everything else.
+**Browser:** [Brave](https://brave.com/)
+**Color Theme:** [Nord](https://www.nordtheme.com/)
 
 <p align="center">
     <i>Have something interesting to work on? Reach out!</i>
