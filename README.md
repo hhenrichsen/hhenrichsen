@@ -29,8 +29,8 @@ friends.
 </details>
 
 ## Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhenrichsen" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hhenrichsen" alt="Hunter's Stats" />
+<span><img align="center" src="https://github-readme-stats.vercel.app/api?username=hhenrichsen" alt="Hunter's Stats" /></span>
+<span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhenrichsen" alt="Hunter's Languages" /></span>
 
 ## Projects
 <details>
