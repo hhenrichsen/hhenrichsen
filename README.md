@@ -90,6 +90,14 @@ the Windows Subsystem for Linux (v2), zsh,
 
 **Color Theme:** [Nord](https://www.nordtheme.com/)
 
+<details>
+    <summary><strong>Other Tools</strong></summary>
+<ul>
+    <li><a href="https://github.com/warner/magic-wormhole">Magic Wormhole</a> - Send files between people/computers without needing FTP/SSH</li>
+    <li><a href="https://ngrok.com/">ngrok</a> - Portforward without portforwarding and through firewalls</li>
+</ul>
+</details>
+
 <p align="center">
     <i>Have something interesting to work on? Reach out!</i>
     <p align="center">
