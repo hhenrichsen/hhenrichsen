@@ -11,7 +11,7 @@
 </p>
 
 ## About Me
-Hey, I'm Hunter. I'm 21 years old. I'm pursuing a bachelors in Computer
+Hey, I'm Hunter. I'm 22 years old. I'm pursuing a bachelors in Computer
 Science at Utah State University. Development and automation are my passions.
 I like to write code that makes it easier for me to write code, as evidenced
 by some of my projects. When I'm not writing code, I'm probably writing a
