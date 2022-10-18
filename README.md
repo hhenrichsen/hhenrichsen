@@ -29,6 +29,8 @@ friends.
 </details>
 
 ## Stats
+
+[![@hunter's Holopin board](https://holopin.me/hunter)](https://holopin.io/@hunter)
 <span><img align="center" src="https://github-readme-stats.vercel.app/api?username=hhenrichsen&theme=prussian" alt="Hunter's Stats" /></span>
 <span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhenrichsen&theme=prussian" alt="Hunter's Languages" /></span>
 
