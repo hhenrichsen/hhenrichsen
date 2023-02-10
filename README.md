@@ -18,6 +18,10 @@ by some of my projects. When I'm not writing code, I'm probably writing a
 blog post, working on plotting out some fiction, or playing games with my
 friends.
 
+I'm currently working on 
+[Motion Canvas](https://github.com/motion-canvas/motion-canvas) and 
+[choir](https://github.com/ShatteredSoftware/choir).
+
 <details>
 <summary>Some other random facts about me.</summary>
     <ul>
