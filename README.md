@@ -64,7 +64,6 @@ environment based on branches. It has the following features:
 * A location ownership system that tallies points based on
 the number of minutes a point is controlled.
 </details>
-<details>
 
 ## Stats
 
