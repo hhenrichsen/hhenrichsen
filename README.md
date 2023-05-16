@@ -19,7 +19,8 @@ blog post, working on plotting out some fiction, or playing games with my
 friends.
 
 I'm currently working on 
-[Motion Canvas](https://github.com/motion-canvas/motion-canvas) and 
+[Motion Canvas](https://github.com/motion-canvas/motion-canvas),
+[PointControl](https://github.com/hhenrichsen/PointControl), and 
 [choir](https://github.com/ShatteredSoftware/choir).
 
 <details>
