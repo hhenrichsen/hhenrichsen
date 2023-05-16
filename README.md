@@ -18,28 +18,12 @@ by some of my projects. When I'm not writing code, I'm probably writing a
 blog post, working on plotting out some fiction, or playing games with my
 friends.
 
+## Projects
 I'm currently working on 
 [Motion Canvas](https://github.com/motion-canvas/motion-canvas),
 [PointControl](https://github.com/hhenrichsen/PointControl), and 
 [choir](https://github.com/ShatteredSoftware/choir).
 
-<details>
-<summary>Some other random facts about me.</summary>
-    <ul>
-        <li>I started writing code seriously when I was about 15, with the
-            goal of writing Minecraft mods (I still haven't written any).</li>
-        <li>I draw occasionally, but I'm still learning how to do that.</li>
-        <li>I listen to Chillstep and Drum and Bass while I code.</li>
-    </ul>
-</details>
-
-## Stats
-
-[![@hunter's Holopin board](https://holopin.me/hunter)](https://holopin.io/@hunter)
-<span><img align="center" src="https://github-readme-stats.vercel.app/api?username=hhenrichsen&theme=prussian" alt="Hunter's Stats" /></span>
-<span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhenrichsen&theme=prussian" alt="Hunter's Languages" /></span>
-
-## Projects
 <details>
     <summary>Some of my favorite projects</summary>
 
@@ -80,30 +64,13 @@ environment based on branches. It has the following features:
 * A location ownership system that tallies points based on
 the number of minutes a point is controlled.
 </details>
-
-## What I Use
-
-### Software
-**Font:** [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans)
-
-**Terminal:** [Windows Terminal](https://github.com/microsoft/terminal) with
-the Windows Subsystem for Linux (v2), zsh, 
-[Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) and
-[Powerlevel10k](https://github.com/romkatv/powerlevel10k). 
-
-**Editors:** IntelliJ for Java and Kotlin, VSCode for everything else.
-
-**Browser:** [Brave](https://brave.com/)
-
-**Color Theme:** [Nord](https://www.nordtheme.com/)
-
 <details>
-    <summary><strong>Other Tools</strong></summary>
-<ul>
-    <li><a href="https://github.com/warner/magic-wormhole">Magic Wormhole</a> - Send files between people/computers without needing FTP/SSH</li>
-    <li><a href="https://ngrok.com/">ngrok</a> - Portforward without portforwarding and through firewalls</li>
-</ul>
-</details>
+
+## Stats
+
+[![@hunter's Holopin board](https://holopin.me/hunter)](https://holopin.io/@hunter)
+<span><img align="center" src="https://github-readme-stats.vercel.app/api?username=hhenrichsen&theme=prussian" alt="Hunter's Stats" /></span>
+<span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhenrichsen&theme=prussian" alt="Hunter's Languages" /></span>
 
 <p align="center">
     <i>Have something interesting to work on? Reach out!</i>
