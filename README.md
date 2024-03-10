@@ -11,7 +11,7 @@
 </p>
 
 ## About Me
-Hey, I'm Hunter. I'm 24 years old. I'm a software engineer and team lead
+Hey, I'm Hunter. I'm 25 years old. I'm a senior software engineer and team lead
 at @LucidSoftware. Development and automation are my passions.
 I like to write code that makes it easier for me to write code, as evidenced
 by some of my projects. When I'm not writing code, I'm probably writing a
