@@ -6,22 +6,21 @@
 <p align="center">
 <a href="https://dev.to/hunter"><img src="https://img.shields.io/badge/dev.to%2F-hunter-151516?style=for-the-badge&amp;logo=dev.to" alt="Hunter on Dev.to"></a>
 <a href="https://github.com/hhenrichsen"><img src="https://img.shields.io/badge/github-hhenrichsen-24292e?style=for-the-badge&amp;logo=github" alt="Hunter on Github"></a>
-<a href="https://hhenrichsen.me"><img src="https://img.shields.io/badge/website-hhenrichsen.me-24292e?style=for-the-badge&amp;logo=hugo&amp;logoColor=ffffff" alt="Hunter on His Site"></a>
+<a href="https://henrichsen.dev"><img src="https://img.shields.io/badge/website-henrichsen.dev-24292e?style=for-the-badge&amp;logo=hugo&amp;logoColor=ffffff" alt="Hunter on His Site"></a>
 <a href="https://mentors.codingcoach.io/?name=Hunter+Henrichsen"><img src="https://img.shields.io/badge/CodingCoach-Mentor-green?style=for-the-badge" alt="Hunter on CodingCoach"></a>
 </p>
 
 ## About Me
-Hey, I'm Hunter. I'm 25 years old. I'm a senior software engineer and team lead
-at @LucidSoftware. Development and automation are my passions.
-I like to write code that makes it easier for me to write code, as evidenced
-by some of my projects. When I'm not writing code, I'm probably writing a
-blog post, working on plotting out some fiction, or playing games with my
+Hey, I'm Hunter. I'm 26 years old. I'm a senior software engineer and team lead
+at @LucidSoftware. I also teach a class at a local university. Development and 
+creativity are my muses. When I'm not writing code, I'm probably writing blog 
+posts, working on plotting out some fiction, drawing, or playing games with my 
 friends.
 
 ## Projects
 I'm currently working on 
 [Motion Canvas](https://github.com/motion-canvas/motion-canvas),
-[PointControl](https://github.com/hhenrichsen/PointControl), and 
+[hvz.gg](https://github.com/hvz-gg/), and 
 [choir](https://github.com/ShatteredSoftware/choir).
 
 <details>
