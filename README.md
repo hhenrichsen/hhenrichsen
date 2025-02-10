@@ -17,6 +17,9 @@ creativity are my muses. When I'm not writing code, I'm probably writing blog
 posts, working on plotting out some fiction, drawing, or playing games with my 
 friends.
 
+Unless otherwise stated, all contributions and opinions are my own and do not 
+belong to or represent my employer(s).
+
 ## Projects
 I'm currently working on 
 [Motion Canvas](https://github.com/motion-canvas/motion-canvas),
